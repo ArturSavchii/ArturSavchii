@@ -9,4 +9,4 @@
    *  a generative NLP model that predicts the next words in a text sequence based on Shakespeare's sonnets data;
    *  a CNN model that classifies images of American sign language's letters;
    *  an NLP model that determines the text's sentiment;
-3. *Math Homeworks* - the problem sets I solved in the Real Analysis and Differential Equations classes.
+3. *Math-Homeworks* - the problem sets I solved in the Linear Algebra, Real Analysis, and Differential Equations classes.
